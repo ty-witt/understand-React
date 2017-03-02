@@ -1,5 +1,4 @@
-# understand-React
-New React Website
+# understand
 
 Don't gitignore me, bruh
 
