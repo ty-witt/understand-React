@@ -1,6 +1,6 @@
 # understand
 
-Don't gitignore me, bruh Ben
+Don't gitignore me, bruh
 
                 _
             ,.-" "-.,
